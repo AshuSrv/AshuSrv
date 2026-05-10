@@ -40,6 +40,5 @@
 </ul>
 
 <h3 align="left">Support My Coffee Addiction:</h3>
-<p><a href="https://buymeacoffee.com/ashusrv"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshuSrv&show_icons=true&locale=en" alt="ashutosh-shrivastava" /></p>
