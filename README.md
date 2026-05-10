@@ -39,6 +39,4 @@
   <li>🥇 **Hackathon Champion 2021** – First Prize at Axess Academy Hackathon</li>
 </ul>
 
-<h3 align="left">Support My Coffee Addiction:</h3>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshuSrv&show_icons=true&locale=en" alt="ashutosh-shrivastava" /></p>
